@@ -1,1 +1,1 @@
-# Fake-New-LSTM
+# Fake-News detection-using LSTM
